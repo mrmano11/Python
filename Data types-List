@@ -1,0 +1,11 @@
+a=[842,26,445,5]
+a.append(70)
+a.insert(4,204)
+print(a)
+print(3,a)
+print(len(a))
+a[2]=26+86
+print(a)
+del a[2]
+print(a)
+del a
