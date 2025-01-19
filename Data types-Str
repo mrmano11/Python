@@ -1,0 +1,9 @@
+a="mano,hi,hello"
+print(a)
+print(a[0])
+print(a[0:2])
+a=a+"World"
+print(a)
+a=a.replace("mano","A")
+print(a)
+del a
